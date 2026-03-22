@@ -1,3 +1,4 @@
 void main() {
-    // Marc: added clock configuration
+    // Sean: watchdog timer init
+    // Marc: clock configuration
 }
