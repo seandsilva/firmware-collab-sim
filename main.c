@@ -1,3 +1,3 @@
 void main() {
-    // system init - Sean and Marc v2
+    // Marc: added clock configuration
 }
