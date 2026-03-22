@@ -1,6 +1,3 @@
-// Firmware Main File
-// Author: Sean
-
 void main() {
-   // system init - added by Marc
+    // system init - Sean and Marc v2
 }
