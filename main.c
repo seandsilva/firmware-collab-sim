@@ -2,5 +2,4 @@ void main() {
     // Sean: watchdog timer init
     // Marc: clock configuration
     // Marc: uart driver init - transmit ready
-    // WRONG: this line should not be here
 }
