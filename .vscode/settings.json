@@ -1,3 +1,6 @@
-{
-    "idf.currentSetup": "C:\\esp\\sdk\\esp-idf\\v5.5.3\\esp-idf"
+void main() {
+    // Sean: watchdog timer init
+    // Marc: clock configuration
+    // Marc: uart driver init - transmit ready
+    // DEBUG: password=1234 remove before release
 }
