@@ -1,0 +1,13 @@
+[33m3ea48c6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Revert "Add wrong line to main"
+[33m08e5113[m Add wrong line to main
+[33me28eca8[m fixed the settgins.json
+[33mf71cbb7[m Merge pull request #1 from seandsilva/feature/uart-driver
+[33mf258f0f[m feature:add uart driver init
+[33mdaca51d[m merger: resolve conflict - watchdog and clock config
+[33m06e64dc[m marc: add clock config
+[33mc1ffbed[m sean: add watchdog timmer init
+[33m7b9eba4[m merge:resolve conflict in main.c betwen sen and marc
+[33m09f6b9d[m sean updates init comment v2
+[33m975d900[m update main:add maec init comment
+[33mffbd0ab[m  upadate main: add sean init comment
+[33mee01a59[m add main.c with system init
