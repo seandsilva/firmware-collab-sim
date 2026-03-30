@@ -7,4 +7,5 @@ void main() {
     // Sean: added SPI init
     // Sean: add DMA config
     // Marc: i2c driver init
+    // Marc: i2c read function
 }
